@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lingaraj.</h1>
 <h3 align="center">I am passionate about Web development and UI UX Designing.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingaraj281&label=Profile%20views&color=0e75b6&style=flat" alt="lingaraj281" /> </p>
 
 - 🔭 I’m currently working on **UI UX**
@@ -13,7 +14,7 @@
 
 - 💬 Ask me about **Python & UI UX**
 
-- 📫 How to reach me **lingarajs2002@gmail.com**
+- 📫 Reach me **lingarajs2002@gmail.com**
 
 - ⚡ Fun fact **I love Gaming, Lofi-music, Stock-marketing and cryptocurrency**
 
